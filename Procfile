@@ -1,3 +1,2 @@
-$ ./mre build
-
-$ ./mre start
+./mre build
+./mre start
