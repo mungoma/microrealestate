@@ -1,1 +1,1 @@
-web: ./mre build && ./mre start
+web: ./mre start
