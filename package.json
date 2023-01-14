@@ -28,6 +28,8 @@
     "webapps/*"
   ],
   "scripts": {
+    "start": "./mre start",
+    "build": "./mre build",
     "e2e": "yarn workspace @microrealestate/e2e run cypress:run",
     "e2e:open": "yarn workspace @microrealestate/e2e run cypress:open",
     "format": "yarn workspaces foreach run format",
